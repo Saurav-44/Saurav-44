@@ -3,9 +3,6 @@
 
 <img align="right" alt="coding" width="400" style="border-radius: 50%;" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-
-- 🔭 I’m currently working on **Web dev**
-
 - 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **App**
